@@ -1,0 +1,71 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    background-color: blanchedalmond;
+    color: blanchedalmond;
+    text-align: center;
+    text-shadow: 1px 2px 10px red;
+    /* 1px (efeito para a direita), 2px (efeito para baixo) 10px (efeito de desfoque) */
+}
+
+
+#EFEITO-GRADIENTE-CIRCULO{
+    width: 100%;
+    height: 300px;
+    background-image: RADIAL-gradient(red, blue,black
+    );
+}
+
+#EFEITO-GRADIENTE-LATERAL{
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(to right, GREEN, PURPLE, ORANGE
+    );
+}
+
+#EFEITO-GRADIENTE-ANGULOS{
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(138deg, BLUE, cyan,pink
+    );
+}
+
+
+#EFEITO-SOMBRA-BOX{
+    width: 100%;
+    height: 300px;
+    background: grey;
+box-shadow: 3px 3px 15px black;
+}
+
+#EFEITO-DE-TEXTO{
+    width: 40%;
+    height: auto;
+    background: grey;
+box-shadow: 3px 3px 15px black;
+}
+
+.REDUZIDA{
+   white-space: nowrap;
+   /* deixar tudo em uma linha só*/
+   overflow: hidden;
+   /* Se limitar ño espaço desejado*/
+   text-overflow: ellipsis;
+   /*Efeito de "..." no texto*/
+}
+
+#EFEITO-DE-TEXTO:hover .REDUZIDA{
+    white-space: normal;
+}
+
+
+
+
+
+
+
+/* a tag [TO] permite alterar a direção desejada, e podendo usar combinações como por exemplo: TOP RIGHT (DE CIMA PARA A DIREITA) */
+
+/*a tag [DEG} permite alterar a direção deseja em ANGULOS, podendo usar como por exemplo: 180 GRAUS, 90 GRAUS */
