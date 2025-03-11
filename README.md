@@ -1,29 +1,25 @@
 # Projeto Estudantil 🎓
 
-> Este repositório foi criado como parte de um projeto de aula, **sem fins lucrativos**. O objetivo é aplicar e melhorar as habilidades adquiridas durante o curso em [tecnologia/área].
-
-![Logo](https://via.placeholder.com/600x200.png?text=Projeto+Estudantil)
+> Este repositório foi criado como parte de um projeto de aula, **sem fins lucrativos**. O objetivo é aplicar e melhorar as habilidades adquiridas durante o curso em [CSS em aplicações para FRONT-END].
 
 ## 📝 Descrição
 
-Este projeto foi desenvolvido para fins educacionais, com o objetivo de aprender mais sobre [insira a tecnologia ou área]. Ele é resultado de atividades realizadas em aula e busca aplicar conceitos estudados durante o curso.
+Este projeto foi desenvolvido para fins educacionais, com o objetivo de aprender mais sobre uso da tag de SHADOW e efeitos GRADIENTES com aplicações em CSS. Ele é resultado de atividades realizadas em aula.
 
 ## 🔍 Objetivos
 
 - Aplicar teoria em um projeto prático.
-- Explorar conceitos de [tecnologia ou área de estudo].
-- Desenvolver habilidades em [exemplo: programação, design, etc.].
+- Explorar conceitos de efeitos visuais.
+- Desenvolver habilidades em programação dev FRONT-END.
 
 ## 📚 Tecnologias Utilizadas
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
-- [Ferramenta ou biblioteca]
+- HTML
+- CSS
 
 ## 🏆 Resultados Esperados
 
-O principal objetivo deste projeto é demonstrar o aprendizado e aplicação de conceitos adquiridos durante as aulas, como [cite os conceitos principais]. Ao final, espera-se que o projeto seja uma representação clara de como aplicar esses conceitos na prática.
+O principal objetivo deste projeto é demonstrar o aprendizado e aplicação de conceitos adquiridos durante as aulas, a final espera-se que o projeto seja uma representação clara de como aplicar esses conceitos na prática.
 
 ## 🤝 Contribuição
 
@@ -37,6 +33,5 @@ Este projeto está licenciado sob a **Licença MIT**, com o intuito de fins educ
 
 Para mais informações ou sugestões, você pode entrar em contato diretamente comigo:
 
-- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/seuperfil)
+- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/samuel-fernandes-761aa9334)
 
-![Imagem Contato](https://via.placeholder.com/600x200.png?text=Entre+em+Contato+Pelo+LinkedIn)
